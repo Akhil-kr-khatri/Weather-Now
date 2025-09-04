@@ -11,6 +11,7 @@ It automatically provides:
 ---
 
 ## 📂 Project Structure  
+```bash
 
 Weather-Now/  
 │── README.md                        # Documentation  
@@ -36,6 +37,7 @@ Weather-Now/
 🏗️ Architecture Diagram:  
 **Frontend (React + Tailwind)** ⇆ **Backend (Express)** ⇆ **Weather API (Open-Meteo / OpenWeatherMap)**  
 
+```
 ---
 
 ## ⚙️ Features  
@@ -79,6 +81,7 @@ npm run dev
 ```
 
 ➡ Runs on http://localhost:5173
+
 ---
 
 ## 📌 Author
