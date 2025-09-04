@@ -53,6 +53,6 @@ app.get('/api/weather', async (req, res) => {
 // Root route
 app.get('/', (req, res) => res.send({ message: 'Weather Now API running' }));
 
-app.listen(PORT, () => {
+app.listen(PORT||5000,'0.0.0.0', () => {
   console.log(`Backend running on http://localhost:${PORT}`);
 });
