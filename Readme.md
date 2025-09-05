@@ -8,6 +8,8 @@ It automatically provides:
 ✅ Weather icons for easy visualization  
 ✅ Mobile responsive UI with Tailwind CSS  
 
+
+**WebSite Deployed**: https://weather-now-frontend-98hf.onrender.com/
 ---
 
 ## 📂 Project Structure  
