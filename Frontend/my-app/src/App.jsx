@@ -3,7 +3,9 @@ import axios from 'axios';
 import WeatherCard from './Components/wetherCard';
 
 
-const API_BASE = 'http://localhost:5000';
+const API_BASE = 'https://weather-now-n9uj.onrender.com';
+// const API_BASE = 'http://localhost:5000';
+
 
 export default function App() {
   const [city, setCity] = useState('');
